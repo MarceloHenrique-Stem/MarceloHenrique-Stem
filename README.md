@@ -3,6 +3,9 @@
 
 📍 São Paulo, Brasil | 🎓 Etec Adhemar Batista Heméritas (Administration & Tech)
 
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marcelo-henrique-stem&theme=default&hide_border=false)
+
+
 ---
 
 ### 🗂️ About Me
