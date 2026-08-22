@@ -3,9 +3,7 @@
 
 📍 São Paulo, Brasil | 🎓 Etec Adhemar Batista Heméritas (Administration & Tech)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarceloHenrique-Stem&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloHenrique-Stem&show_icons=true&theme=tokyonight)
 
 
 
