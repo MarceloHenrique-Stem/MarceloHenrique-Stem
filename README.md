@@ -1,7 +1,7 @@
 # Marcelo Henrique
 *High School Researcher | Maker & Embedded Systems Developer*
 
-📍 São Paulo, Brasil | 🎓 Etec Adhemar Batista Heméritas (Administration & Tech)
+📍 São Paulo, Brasil | 🎓 Etec São José dos Campos(Administration & Tech)
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marcelo-henrique-stem&theme=default&hide_border=false)
 
