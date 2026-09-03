@@ -6,7 +6,9 @@
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marcelo-henrique-stem&theme=default&hide_border=false)
 
 
+
 ---
+
 
 ### 🗂️ About Me
 * 💡 Developing accessible robotics and hardware solutions via **Project Hyperfox**.
@@ -15,7 +17,9 @@
 * 🛠️ Core focus: KiCAD (PCB Design), C/C++ (Microcontrollers), Python, and Control Systems (PID).
 
 
+
 ---
+
 
 
 ### 🚀 Core Projects
@@ -23,7 +27,9 @@
 * 🔬 **[Open Lab / Hyperfocus Science](https://github.com/seu-usuario/open-lab):** Technical documentation, experimental logs, and reproducible hardware guides for STEM students.
 
 
+
 ---
+
 
 
 ### 🛠️ Tech Stack & Tools
@@ -32,7 +38,8 @@
 * **Management & Tools:** Git, GitHub, Linux, LaTeX
 
 
+
 ---
 
 
-### 📊 Open Source Activity
+
