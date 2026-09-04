@@ -1,0 +1,64 @@
+// Robô 4 rodas - Teste básico de movimento
+// Arduino Uno + L298N
+
+// Pinos lado esquerdo
+const int ENA = 5;
+const int IN1 = 6;
+const int IN2 = 7;
+
+// Pinos lado direito
+const int ENB = 9;
+const int IN3 = 10;
+const int IN4 = 11;
+
+void setup() {
+  pinMode(ENA, OUTPUT);
+  pinMode(IN1, OUTPUT);
+  pinMode(IN2, OUTPUT);
+  pinMode(ENB, OUTPUT);
+  pinMode(IN3, OUTPUT);
+  pinMode(IN4, OUTPUT);
+
+  // Velocidade inicial (0 a 255)
+  analogWrite(ENA, 180);
+  analogWrite(ENB, 180);
+}
+
+void loop() {
+  // Anda para frente por 2 segundos
+  frente();
+  delay(2000);
+
+  // Para por 1 segundo
+  parar();
+  delay(1000);
+
+  // Anda para trás por 2 segundos
+  tras();
+  delay(2000);
+
+  // Para por 1 segundo
+  parar();
+  delay(1000);
+}
+
+void frente() {
+  digitalWrite(IN1, HIGH);
+  digitalWrite(IN2, LOW);
+  digitalWrite(IN3, HIGH);
+  digitalWrite(IN4, LOW);
+}
+
+void tras() {
+  digitalWrite(IN1, LOW);
+  digitalWrite(IN2, HIGH);
+  digitalWrite(IN3, LOW);
+  digitalWrite(IN4, HIGH);
+}
+
+void parar() {
+  digitalWrite(IN1, LOW);
+  digitalWrite(IN2, LOW);
+  digitalWrite(IN3, LOW);
+  digitalWrite(IN4, LOW);
+}
