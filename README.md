@@ -35,7 +35,7 @@
 ### 🛠️ Tech Stack & Tools
 * **Languages:** C++, Python, C
 * **Hardware & EDA:** KiCAD, Arduino Architecture, AVR/ESP32, Microcontrollers
-* **Management & Tools:** Git, GitHub, Linux, LaTeX
+* **Management & Tools:** Git, GitHub, Linux.
 
 
 
