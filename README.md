@@ -3,7 +3,6 @@
 
 📍 São Paulo, Brasil | 🎓 Etec São José dos Campos(Administration & Tech)
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marcelo-henrique-stem&theme=default&hide_border=false)
 
 
 
