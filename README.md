@@ -1,5 +1,5 @@
 # Marcelo Henrique
-*High School Researcher | Maker & Embedded Systems Developer*
+*High School Researcher  |  Maker & Embedded Systems Developer*
 
 📍 São Paulo, Brasil | 🎓 Etec São José dos Campos(Administration & Tech)
 
