@@ -10,7 +10,7 @@
 
 
 ### 🗂️ About Me
-* 💡 Developing accessible robotics and hardware solutions via **Project Hyperfox**.
+* 💡 Developing accessible robotics and hardware solutions via **CIT**.
 * 📚 Combining **Business Administration** fundamentals with **Embedded Systems Engineering**.
 * 🏆 Finalist at **ONHB** (National Olympiad in Brazilian History) & Active STEM Olympiad Competitor.
 * 🛠️ Core focus: KiCAD (PCB Design), C/C++ (Microcontrollers), Python, and Control Systems (PID).
