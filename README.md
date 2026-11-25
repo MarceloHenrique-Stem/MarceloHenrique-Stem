@@ -22,7 +22,7 @@
 
 
 ### 🚀 Core Projects
-* 🦊 **[Project Hyperfox](https://github.com/seu-usuario/project-hyperfox):** Open-source low-cost robotics platform designed for public school education. Features custom PCB design, C++ firmware, and PID algorithms.
+*  **[Project Hyperfocus Science](https://github.com/seu-usuario/project-hyperfox):** Open-source low-cost robotics platform designed for public school education. Features custom PCB design, C++ firmware, and PID algorithms.
 * 🔬 **[Open Lab / Hyperfocus Science](https://github.com/seu-usuario/open-lab):** Technical documentation, experimental logs, and reproducible hardware guides for STEM students.
 
 
@@ -35,10 +35,6 @@
 * **Languages:** C++, Python, C
 * **Hardware & EDA:** KiCAD, Arduino Architecture, AVR/ESP32, Microcontrollers
 * **Management & Tools:** Git, GitHub, Linux.
-
-
-
----
 
 
 
